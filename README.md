@@ -41,7 +41,7 @@ Relabeled title element
 ![Web page](./Screenshot%20of%20Horiseon%20webpage.PNG)
 
 ## Link to deployed site
-https://variegatedhuman.github.io/Challenge-1/Develop/
+https://variegatedhuman.github.io/Challenge-1/
 
 ## Authors and acknowledgment
 Adam Michell using Triology Bootcamp's starter code
